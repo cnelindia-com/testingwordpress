@@ -1,5 +1,5 @@
 deployment:
  tasks:
- - export DEPLOYPATH=/home3/ccrdskmy/public_html/
+ - export DEPLOYPATH=/home3/ccrdskmy/public_html/ready/testingnewhwe
  - /bin/cp index.html $DEPLOYPATH
  - /bin/cp style.css $DEPLOYPATH
